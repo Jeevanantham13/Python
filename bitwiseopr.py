@@ -1,0 +1,14 @@
+a=10
+b=20
+c=a&b
+print("the and opr=",c)
+c=a|b
+print("the or opr=",c)
+c=a^b
+print("the xor opr=",c)
+c=~a
+print("the negation of a=",c)
+c=a<<b
+print("the left shift opr=",c)
+c=a>>b
+print("the right shift opr=",c)
